@@ -1,1 +1,10 @@
-/* css styles */
+/* Custom callout for caution */
+.custom-callout {
+  background-color: #f0f4c3;  /* Light green background */
+  border-left: 4px solid #8bc34a;  /* Green border */
+  padding: 10px;
+}
+
+.custom-callout .callout-title {
+  color: #4a7c34;  /* Darker green for title text */
+}
