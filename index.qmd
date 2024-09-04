@@ -1,6 +1,4 @@
----
-title: "SR-SAVI Conference"
----
+
 
 <video autoplay loop style="width:1000px; height:auto;">
   <source src="ZurichAnim.mp4" type="video/mp4">
