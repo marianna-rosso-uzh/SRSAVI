@@ -1,13 +1,18 @@
 project:
   type: website
 
+
 website:
-  title: "SR-SAVI"
+  sidebar: false
+  title: "SR-SAVI Conference"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Welcome
+      - href: program.qmd
+        text: Program
+      - href: speakers.qmd
+        text: Speakers
 
 format:
   html:

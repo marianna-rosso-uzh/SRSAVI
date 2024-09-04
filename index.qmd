@@ -1,11 +1,16 @@
 ---
-title: "SR-SAVI"
+title: "SR-SAVI Conference"
 ---
+
+<video autoplay loop style="width:1000px; height:auto;">
+  <source src="ZurichAnim.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

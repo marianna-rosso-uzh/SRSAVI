@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SR-SAVI Conference",
+    "section": "",
+    "text": "Your browser does not support the video tag. \nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#embedded-gif-animation",
+    "href": "index.html#embedded-gif-animation",
+    "title": "SR-SAVI Conference",
+    "section": "Embedded GIF Animation",
+    "text": "Embedded GIF Animation"
+  },
+  {
+    "objectID": "index.html#embedded-video-animation",
+    "href": "index.html#embedded-video-animation",
+    "title": "SR-SAVI Conference",
+    "section": "Embedded Video Animation",
+    "text": "Embedded Video Animation\n\n\nYour browser does not support the video tag. \n1 + 1"
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "Program\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "speakers",
+    "section": "",
+    "text": "Here is a list of speakers"
+  }
+]
