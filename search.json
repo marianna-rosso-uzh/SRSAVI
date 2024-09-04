@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SR-SAVI",
+    "title": "SR-SAVI Conference",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Your browser does not support the video tag. \nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "Program\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "speakers",
+    "section": "",
+    "text": "Here is a list of speakers"
   }
 ]
