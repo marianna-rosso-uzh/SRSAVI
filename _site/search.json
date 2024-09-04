@@ -37,8 +37,8 @@
   {
     "objectID": "speakers.html",
     "href": "speakers.html",
-    "title": "SR-SAVI Conference",
+    "title": "Speakers List",
     "section": "",
-    "text": "Below is a list of speakers. Click on a name to see their background and photo.\n\n\n\n\n\n\nElisabeth Bik\n\n\n\n\n\nElisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct"
+    "text": "Elisabeth Bik\n\n\n\n\n\nElisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct\n\n\n\n\n\n# Define a data frame with speaker details\nspeakers &lt;- data.frame(\n  name = c(\"Elisabeth Bik\", \"John Doe\", \"Jane Smith\"),\n  bio = c(\n    \"Elisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant.\",\n    \"John Doe is a fictional character often used to represent an anonymous person.\",\n    \"Jane Smith is a well-known author and educator.\"\n  ),\n  image = c(\"Bik.png\", \"john_doe.png\", \"jane_smith.png\"),\n  stringsAsFactors = FALSE\n)\n\n\n# Loop through each speaker\ntext&lt;-for (i in 1:nrow(speakers)) {\n  paste(\"::: {.callout-caution collapse=\\\"true\\\" icon=\\\"false\\\" appearance=\\\"minimal\\\"}\\n\",\"&lt;/br&gt;\",\n  \"###\", speakers$name[i], \"&lt;/br&gt;\",\n  speakers$bio[i], \"&lt;/br&gt;\",\n  \"![](\", speakers$image[i], \"){width=200px}\\n\\n\")\n}\n\ntext\n\nNULL"
   }
 ]

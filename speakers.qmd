@@ -1,9 +1,12 @@
+---
+title: "Speakers List"
+format: html
+---
 
-::: {.callout-caution collapse="true" icon=false}
+::: {.callout-caution collapse="true" icon="false" appearance="minimal"}
 ### Elisabeth Bik
+
 Elisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct
 
-![](Bik.png){width=200px}
+![](Bik.png){width="200px"}
 :::
-
-
