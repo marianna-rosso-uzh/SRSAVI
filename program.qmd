@@ -1,7 +1,3 @@
----
-title: "Program"
----
-
 ### Day 1 (October 17th)
 
 ***Session 1: Translational Research Bridging Animal Studies to Human Applications and Policy Implementation***
