@@ -13,10 +13,12 @@ website:
         text: Program
       - href: speakers.qmd
         text: Speakers
+      - href: credits.qmd
+        text: Credits
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
