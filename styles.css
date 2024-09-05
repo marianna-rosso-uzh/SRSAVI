@@ -22,35 +22,3 @@ body {
   height: auto;   /* Automatically adjust height based on the width */
   object-fit: cover;  /* Ensures the video covers the entire space */
 }
-
-.speaker-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border-bottom: 1px solid #ccc;
-    padding: 20px 0;
-    margin: 10px 0;
-}
-
-.speaker-info {
-    display: flex;
-    align-items: center;
-}
-
-.speaker-info img {
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    margin-right: 20px;
-}
-
-.speaker-details {
-    line-height: 1.5;
-}
-
-.speaker-actions a {
-    text-decoration: none;
-    font-size: 1.5rem;
-    margin-left: 20px;
-    color: #ff9900;
-}
