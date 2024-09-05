@@ -1,10 +1,38 @@
-/* Custom callout for caution */
-.custom-callout {
-  background-color: #f0f4c3;  /* Light green background */
-  border-left: 4px solid #8bc34a;  /* Green border */
-  padding: 10px;
+/* Ensure the body takes up the full height and width */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
 }
 
-.custom-callout .callout-title {
-  color: #4a7c34;  /* Darker green for title text */
+/* Video container */
+.background-video-container {
+  position: fixed; /* This ensures it is fixed to the viewport */
+  bottom: 0;  /* Align to the bottom of the browser window */
+  left: 0;    /* Align to the left of the browser window */
+  width: auto;
+  height: auto;
+  z-index: -1;  /* Make sure it's behind the content */
+}
+
+/* Resizing the video */
+.background-video-container video {
+  width: 1000px;   /* Adjust the size to your needs */
+  height: auto;   /* Automatically adjust height based on the width */
+  object-fit: cover;  /* Ensures the video covers the entire space */
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 200px; /* Adjust the height to fit all images uniformly */
+}
+
+.card-body {
+  text-align: center; /* Center text */
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for a better look */
 }
