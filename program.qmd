@@ -1,3 +1,6 @@
+---
+toc: false
+---
 
 <div class="background-video-container">
   <video autoplay loop muted playsinline>
@@ -6,11 +9,10 @@
   </video>
 </div>
 
-
 # Day 1 (October 17th)
 
 | Time              | Event                                                                                                                                                                                           |
-|--------------|----------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | **8:30-9:00**     | Welcome & Registration                                                                                                                                                                          |
 | **9:00-9:30**     | Keynote by Dr. Benjamin Ineichen                                                                                                                                                                |
 | **9:30-10:30**    | Presentations (15 minutes each):                                                                                                                                                                |
@@ -32,7 +34,7 @@
 # Day 2 (October 18th)
 
 | Time            | Event                                                                                                                                                         |
-|--------------|----------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | **9:00-9:30**   | Keynote by Dr. Elisabeth Bik                                                                                                                                  |
 | **9:30-10:15**  | Presentations (15 minutes each):                                                                                                                              |
 |                 | **Kimberley Wever:** Uncovering Duplicated Images in Scientific Literature - Systematic Review as a Tool for Detection                                        |
