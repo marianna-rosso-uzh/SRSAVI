@@ -22,3 +22,32 @@ body {
   height: auto;   /* Automatically adjust height based on the width */
   object-fit: cover;  /* Ensures the video covers the entire space */
 }
+
+/* Adjust the table columns */
+table {
+  width: 100%;
+}
+
+table tr td:first-child {
+  width: 20%;  /* Adjust this percentage to control the width of the first column */
+  white-space: nowrap;
+}
+
+table tr td:nth-child(2) {
+  width: 80%;  /* Adjust this percentage for the second column */
+}
+
+
+.responsive-video {
+  width: 120%; /* Video will take 100% of its container’s width */
+  height: auto; /* Maintains the aspect ratio automatically */
+}
+
+/* For small screens, adjust how the video behaves */
+@media only screen and (max-width: 768px) {
+  .responsive-video {
+    object-fit: cover; /* Crops the video if needed to fit smaller screens */
+    height: 200px; /* Adjust this value to control how much of the video is shown on small screens */
+  }
+}
+
