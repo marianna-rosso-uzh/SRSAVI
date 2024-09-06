@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -97,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Program</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./speakers.html" aria-current="page"> 
+    <a class="nav-link" href="./speakers.html"> 
 <span class="menu-text">Speakers</span></a>
   </li>  
   <li class="nav-item">
@@ -115,62 +115,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
 
-<div class="background-video-container">
-<p><video autoplay="" loop="" muted="" playsinline=""> <source src="LogoVideo.mp4" type="video/mp4"> Your browser does not support the video tag. </video></p>
-</div>
-<section id="keynote-speakers" class="level2">
-<h2 class="anchored" data-anchor-id="keynote-speakers">Keynote speakers</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 40%">
-<col style="width: 26%">
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Bio</th>
-<th>More</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><img src="images/Ananiadou.png" class="img-fluid" width="190" alt="Speaker1"></td>
-<td><strong>Sophia Ananiadou</strong><br> Bio text</td>
-<td><a href="https://research.manchester.ac.uk/en/persons/sophia.ananiadou" target="_blank">More Info</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/Bik.png" class="img-fluid" width="190" alt="Speaker2"></td>
-<td><strong>Elisabeth Bik</strong><br> Bio text</td>
-<td><a href="https://scienceintegritydigest.com/" target="_blank">More Info</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/Ben.png" class="img-fluid" width="190" alt="Speaker3"></td>
-<td><strong>Benjamin Ineichen</strong><br> Bio text</td>
-<td><a href="https://stride-lab.pages.uzh.ch/website/people/ineichen-benjamin-victor/" target="_blank">More Info</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/moher.png" class="img-fluid" width="190" alt="Speaker4"></td>
-<td><strong>David Moher</strong><br> Bio text</td>
-<td><a href="https://www.ohri.ca/profile/dmoher" target="_blank">More Info</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/Salanti.png" class="img-fluid" width="190" alt="Speaker5"></td>
-<td><strong>Georgia Salanti</strong><br> Bio text</td>
-<td><a href="https://www.ispm.unibe.ch/about_us/staff/salanti_georgia/index_eng.html" target="_blank">More Info</a></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="speakers-and-abstracts" class="level2">
-<h2 class="anchored" data-anchor-id="speakers-and-abstracts">Speakers and abstracts</h2>
 <div class="callout callout-style-simple callout-caution no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -693,13 +646,12 @@ YIYUAN PU - Large Language Models in systematic review automation of Alzheimer�
 <div class="callout-body-container callout-body">
 <p>School of Computing and Information Systems, The University of Melbourne; Centre for Clinical Brain Sciences, The University of Edinburgh; School of Computing Technologies, RMIT University; School of Computing and Information Systems, The University of Melbourne; Centre for Clinical Brain Sciences, The University of Edinburgh; School of Computing Technologies, RMIT University</p>
 <p><em>Yiyuan, Pu; Kaitlyn, Hair; Daniel, Beck; Mike, Conway; Malcolm, MacLeod; Karin, Verspoor</em></p>
-<p>AD-SOLES (Systematic Online Living Evidence Summary of Alzheimer’s Disease Research) conducts living systematic reviews for preclinical Alzheimer’s research. Summaries of existing AD research are abstracted as PICO elements (Population, Intervention, Comparator, and Outcome), providing the latest combinations of models, treatments, and outcome measures. A standard method in automating PICO extraction is to apply a dictionary compiled from a set of regular expression (regex) patterns in literature. We explored improving the regex performance of intervention extraction with Large Language Model-based (LLM-based) filtering in AD-SOLES. We aim to extend the LLM-based filtering method from intervention extraction alone to all PICO elements in preclinical AD studies. For automatically identifying PICO elements, we followed a two-stage filtering method in the intervention extraction of AD studies. We used a Pre-trained Language Model (PLM) to filter false positives obtained from regexes. Precision errors arising from regex-based methods were mainly due to a lack of context: any entity that matched a regex would be recognized as an intervention. We hypothesized that a PLM can contextualize entity context and filter them out if appropriate, without undermining recall. Preliminary results on intervention extraction show the two-stage filtering outperforms strong baselines, including standalone use of LLMs. For intervention extraction, a Regex-based method achieved an F1 score of 32%, and ChatGPT and GPT-4 with zero-shot learning achieved F1 scores of 29% and 27% respectively. In the Regex+ChatGPT (three-shot) scenario, the model achieved the highest F1 of 50%. Experiments of other PICO elements are in progress.PICO entity extraction with LLM-based two-stage filtering leads to more reflective summaries of Alzheimer’s studies, supporting literature-based discovery in the future. This further helps experts prioritize treatments for clinical experiments and discover drug combinations for symptoms.</p>
+<p>AD-SOLES (Systematic Online Living Evidence Summary of Alzheimer’s Disease Research) conducts living systematic reviews for preclinical Alzheimer’s research. Summaries of existing AD research are abstracted as PICO elements (Population, Intervention, Comparator, and Outcome), providing the latest combinations of models, treatments, and outcome measures. A standard method in automating PICO extraction is to apply a dictionary compiled from a set of regular expression (regex) patterns in literature. We explored improving the regex performance of intervention extraction with Large Language Model-based (LLM-based) filtering in AD-SOLES. We aim to extend the LLM-based filtering method from intervention extraction alone to all PICO elements in preclinical AD studies. For automatically identifying PICO elements, we ​​followed a two-stage filtering method in the intervention extraction of AD studies. We used a Pre-trained Language Model (PLM) to filter false positives obtained from regexes. Precision errors arising from regex-based methods were mainly due to a lack of context: any entity that matched a regex would be recognized as an intervention. We hypothesized that a PLM can contextualize entity context and filter them out if appropriate, without undermining recall. Preliminary results on intervention extraction show the two-stage filtering outperforms strong baselines, including standalone use of LLMs. For intervention extraction, a Regex-based method achieved an F1 score of 32%, and ChatGPT and GPT-4 with zero-shot learning achieved F1 scores of 29% and 27% respectively. In the Regex+ChatGPT (three-shot) scenario, the model achieved the highest F1 of 50%. Experiments of other PICO elements are in progress.PICO entity extraction with LLM-based two-stage filtering leads to more reflective summaries of Alzheimer’s studies, supporting literature-based discovery in the future. This further helps experts prioritize treatments for clinical experiments and discover drug combinations for symptoms.</p>
 </div>
 </div>
 </div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
