@@ -5,10 +5,8 @@
   Your browser does not support the video tag.
 </video>
 
+## Venue
 
+## More info
 
-
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Food options
