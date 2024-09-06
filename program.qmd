@@ -5,52 +5,201 @@ format:
     css: styles.css
 ---
 
-<div class="background-video-container">
-  <video autoplay loop muted playsinline>
-    <source src="LogoVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-# Day 1 (October 17th)
 
-| Time              | Event                                                                                                                                                                                           |
-|------------------|------------------------------------------------------|
-| **8:30-9:00**     | Welcome & Registration                                                                                                                                                                          |
-| **9:00-9:30**     | Keynote by Dr. Benjamin Ineichen                                                                                                                                                                |
-| **9:30-10:30**    | Presentations (15 minutes each):                                                                                                                                                                |
-|                   | **Friederike Elisabeth Kohrs:** Communities for Open Research Synthesis – accelerating the translation of evidence by integrating preclinical systematic reviews into the research pipeline     |
-|                   | **Carolyne Huang:** A simulation study to quantify successful translation of results from preclinical studies to human trials                                                                   |
-|                   | **Joelle Jagersma:** Animal models for the social, cognitive, and neurobiological impact of early-onset hearing loss: a systematic review with synthesis without meta-analysis (SWiM)           |
-|                   | **Charis Wong:** Selecting amantadine as the 3rd experimental arm for MND-SMART using a data-driven framework                                                                                   |
-| **10:30-11:00**   | Coffee break                                                                                                                                                                                    |
-| **11:00-11:30**   | Keynote by Dr. David Moher                                                                                                                                                                      |
-| **11:30-12:30**   | Presentations (15 minutes each):                                                                                                                                                                |
-|                   | **Alexandra Bannach-Brown:** Barriers and enablers to conducting systematic reviews at a German University Medical Center – Findings from the “Communities for Open Research Synthesis” project |
-|                   | **Aileen MacLellan:** Assessing scientific rigour and 3Rs implementation in Canadian research: An investigation of animal use protocols                                                         |
-|                   | **Martijn Nolte:** Better Science through More Transparency: Pilot study on stimulating transparent laboratory animal research                                                                  |
-|                   | **Kimberley Wever:** Building on Success: a Roadmap for High-Quality In Vitro Systematic Reviews by Transferring Expertise from Animal Systematic Review Methodology                            |
-| **12:30-13:30**   | Lunch break                                                                                                                                                                                     |
-| **13:30-16:00**   | Reproducibility Challenge, held by Dr. Kimberley Wever and Dr. Sarah McCann                                                                                                                     |
-| **17:00 onwards** | [Social Event](SocialEvent.qmd)                                                                                                                                                                 |
-|                   |                                                                                                                                                                                                 |
+# Day 1 (October 17th)
+<table>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td colspan="2" style="text-align: left;"><u><em>Session 1: Translational Research Bridging Animal Studies to Human Applications and Policy Implementation</u></em></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>8:30-9:00</strong></td>
+    <td>Welcome & Registration</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>9:00-9:30</strong></td>
+    <td>Keynote by <strong>Dr. Benjamin Ineichen<strong></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>9:30-10:30</strong></td>
+    <td>Presentations (15 minutes each):</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Friederike Elisabeth Kohrs:</strong> Communities for Open Research Synthesis – accelerating the translation of evidence by integrating preclinical systematic reviews into the research pipeline</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Carolyne Huang:</strong> A simulation study to quantify successful translation of results from preclinical studies to human trials</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Joelle Jagersma:</strong> Animal models for the social, cognitive, and neurobiological impact of early-onset hearing loss: a systematic review with synthesis without meta-analysis (SWiM)</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Charis Wong:</strong> Selecting amantadine as the 3rd experimental arm for MND-SMART using a data-driven framework</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>10:30-11:00</strong></td>
+    <td>Coffee break</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td colspan="2" style="text-align: left;"><u><em>Session 2: Promoting Rigour and Transparency in Systematic Reviews 
+</u></em></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  
+  <tr>
+    <td><strong>11:00-11:30</strong></td>
+    <td>Keynote by <strong>Dr. David Moher</strong></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>11:30-12:30</strong></td>
+    <td>Presentations (15 minutes each):</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Alexandra Bannach-Brown:</strong> Barriers and enablers to conducting systematic reviews at a German University Medical Center – Findings from the “Communities for Open Research Synthesis” project</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Aileen MacLellan:</strong> Assessing scientific rigour and 3Rs implementation in Canadian research: An investigation of animal use protocols</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Martijn Nolte:</strong> Better Science through More Transparency: Pilot study on stimulating transparent laboratory animal research</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Kimberley Wever:</strong> Building on Success: a Roadmap for High-Quality In Vitro Systematic Reviews by Transferring Expertise from Animal Systematic Review Methodology</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>12:30-13:30</strong></td>
+    <td>Lunch break</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>13:30-14:00</strong></td>
+    <td>Keynote by <strong>Dr. Georgia Salanti</strong></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>14:00-16:00</strong></td>
+    <td>Reproducibility Challenge, held by Dr. Kimberley Wever and Dr. Sarah McCann</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>17:00 onwards</strong></td>
+    <td><a href="SocialEvent.qmd">Social Event</a></td>
+  </tr>
+</table>
+
 
 # Day 2 (October 18th)
 
-| Time           | Event                                                                                                                                                         |
-|---------------|-------------------------------------------------------|
-| **9:00-9:30**| Keynote by Dr. Elisabeth Bik                                                                                                                                  |
-| **9:30-10:15**| Presentations (15 minutes each):                                                                                                                              |
-|               | **Kimberley Wever:** Uncovering Duplicated Images in Scientific Literature - Systematic Review as a Tool for Detection                                        |
-|               | **Otto Kalliokoski:** It is time to talk about fraudulent studies in meta-analytical evidence synthesis – learnings from a preclinical systematic review      |
-|               | **Sara Steele:** Underreporting in non-clinical publications: Development of the rigor assessment tool (RAT)                                                  |
-| **10:15-10:45**| Coffee break                                                                                                                                                  |
-| **10:45-11:15**| Keynote by Dr. Sophia Ananiadou                                                                                                                               |
-| **11:15-11:55**| Presentations (10 minutes each):                                                                                                                              |
-|                | **Kaitlyn Hair:** The future of Systematic Online Living Evidence Summaries (SOLES): emerging trends and challenges in automating evidence synthesis          |
-|                | **Andrew Rooney:** Improving workflow for evidence-based decision making in environmental health evaluations                                                  |
-|                | **Francesca Tinsdeall:** A Comprehensive Evaluation of Stopping Rules in Technology-Assisted Review: When Have We Screened Enough?                            |
-|                | **Pu Yiyuan:** Large Language Models in systematic review automation of Alzheimer’s research: enhancing living evidence landscape with PICO entity extraction |
-| **12:05-12:35**| Panel discussion with speakers and keynote                                                                                                                    |
-| **12:35-14:00**| Lunch break                                                                                                                                                   |
-| **14:00-15:30**| Poster session                                                                                                                                                |
-| **15:30-16:00**| Closing & Acknowledgements: Benjamin Ineichen and organizers                                                                                                  |
+<table>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td colspan="2" style="text-align: left;"><u><em>Session 3: Identification and Management of Questionable Research Practices and Potential Research Misconduct</u></em></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>9:00-9:30</strong></td>
+    <td>Keynote by <strong>Dr. Elisabeth Bik</strong></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>9:30-10:15</strong></td>
+    <td>Presentations (15 minutes each):</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Kimberley Wever:</strong> Uncovering Duplicated Images in Scientific Literature - Systematic Review as a Tool for Detection</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Otto Kalliokoski:</strong> It is time to talk about fraudulent studies in meta-analytical evidence synthesis – learnings from a preclinical systematic review</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Sara Steele:</strong> Underreporting in non-clinical publications: Development of the rigor assessment tool (RAT)</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>10:15-10:45</strong></td>
+    <td>Coffee break</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td colspan="2" style="text-align: left;"><u><em>Session 4: The Integration of Automation and AI in Systematic Reviews and Meta-analyses</u></em></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>10:45-11:15</strong></td>
+    <td>Keynote by <strong>Dr. Sophia Ananiadou</strong></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>11:15-11:55</strong></td>
+    <td>Presentations (10 minutes each):</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Kaitlyn Hair:</strong> The future of Systematic Online Living Evidence Summaries (SOLES): emerging trends and challenges in automating evidence synthesis</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Andrew Rooney:</strong> Improving workflow for evidence-based decision making in environmental health evaluations</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Francesca Tinsdeall:</strong> A Comprehensive Evaluation of Stopping Rules in Technology-Assisted Review: When Have We Screened Enough?</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td><strong>Pu Yiyuan:</strong> Large Language Models in systematic review automation of Alzheimer’s research: enhancing living evidence landscape with PICO entity extraction</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>12:05-12:35</strong></td>
+    <td>Panel discussion with speakers and keynote</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>12:35-14:00</strong></td>
+    <td>Lunch break</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>14:00-15:30</strong></td>
+    <td>Poster session 2 with Coffee break</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>15:30-16:00</strong></td>
+    <td>Closing & Acknowledgements: <strong>Dr Benjamin Ineichen & organizers</strong></td>
+  </tr>
+</table>

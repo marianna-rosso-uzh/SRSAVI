@@ -20,6 +20,7 @@ toc: false
 | ![Speaker5](images/Salanti.png){width="190"}   | **Georgia Salanti**<br> Bio text   | <a href="https://www.ispm.unibe.ch/about_us/staff/salanti_georgia/index_eng.html" target="_blank">More Info</a>  |
 
 ## Speakers and abstracts
+Speakers are sorted by alphabetical order
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal"}
 ### Rene Aquarius - Uncovering Duplicated Images in Scientific Literature - Systematic Review as a Tool for Detection
