@@ -11,22 +11,34 @@ toc: false
 
 ## Organizers
 
+Let's give credit where credit is due. This conference would be be possible without our amazing team:
+
+-   <a href="https://stride-lab.pages.uzh.ch/website/people/rosso-marianna/" target="_blank">Marianna Rosso</a>
+
+-   <a href="https://stride-lab.pages.uzh.ch/website/people/ineichen-benjamin-victor/" target="_blank">Benjamin Ineichen</a>
+
+-   <a href="https://www.bihealth.org/en/research/research-group/preclinical-systematic-reviews-and-meta-analyses" target="_blank">Dr Sarah McCann</a>
+
+-   <a href="https://www.radboudumc.nl/en/people/kimberley-wever" target="_blank">Kimberley Wever</a>
+
+-   <a href="https://www.niehs.nih.gov/research/atniehs/labs/iha/ohat/staff/rooney" target="_blank">Andrew Rooney</a>
+
+-   <a href="https://www.ed.ac.uk/profile/dr-emily-sena" target="_blank">Emily Sena</a>
+
 ## Sponsors
+
 A special thanks to our sponsors that made this conference possible:
 
-<a href="https://www.criver.com/" target="_blank">
-  <img src="images/CRLogo.png" alt="Charles River logo" width="300" />
-</a>
+<a href="https://www.criver.com/" target="_blank"> <img src="images/CRLogo.png" alt="Charles River logo" width="300"/> </a>
 
+<a href="https://uzhalumni.ch/" target="_blank"> <img src="images/UZHAlumni.png" alt="UZH Alumni logo" width="300"/> </a>
 
-<a href="https://uzhalumni.ch/" target="_blank">
-  <img src="images/UZHAlumni.png" alt="UZH Alumni logo" width="300" />
-</a>
+## Thanks to
 
-## Credits 
+<a href="https://camarades.ch/" target="_blank"> <img src="images/camarades_zurich.png" alt="CAMARADES CH" width="300"/> </a>
+
+<a href="https://www.uzh.ch/de.html" target="_blank"> <img src="images/uzh_logo.png" alt="UZH" width="300"/> </a>
+
+## Credits
 
 This website was created with <a href="https://quarto.org/" target="_blank">Quarto</a> by <a href="https://stride-lab.pages.uzh.ch/website/people/rosso-marianna/" target="_blank">Marianna Rosso</a>. After the event this website will be migrated <a href="https://github.com/marianna-rosso-uzh/SRSAVI" target="_blank">here</a>.
-
-
-
-
