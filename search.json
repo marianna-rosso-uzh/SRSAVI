@@ -21,32 +21,11 @@
     "text": "Speakers and abstracts\n\n\n\n\n\n\nElisabeth Bik\n\n\n\n\n\nElisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct\n\n\n\n\n\n\n\n\n\nBenjamin Ineichen\n\n\n\n\n\nElisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct\n\n\n\n\n\n\n\n\n\nSophia Ananiadou\n\n\n\n\n\nElisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct\n\n\n\n\n\n\n\n\n\nDavid Moher\n\n\n\n\n\nElisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct\n\n\n\n\n\n\n\n\n\nGeorgia Salanti\n\n\n\n\n\nElisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct"
   },
   {
-    "objectID": "credits.html",
-    "href": "credits.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "SR-SAVI Conference",
     "section": "",
-    "text": "Your browser does not support the video tag."
-  },
-  {
-    "objectID": "credits.html#organizers",
-    "href": "credits.html#organizers",
-    "title": "SR-SAVI Conference",
-    "section": "Organizers",
-    "text": "Organizers"
-  },
-  {
-    "objectID": "credits.html#sponsors",
-    "href": "credits.html#sponsors",
-    "title": "SR-SAVI Conference",
-    "section": "Sponsors",
-    "text": "Sponsors\nA special thanks to our sponsors that made this conference possible:"
-  },
-  {
-    "objectID": "credits.html#credits",
-    "href": "credits.html#credits",
-    "title": "SR-SAVI Conference",
-    "section": "Credits",
-    "text": "Credits\nThis website was created with Quarto by Marianna Rosso. After the event this website will be migrated here."
+    "text": "Your browser does not support the video tag. \nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "program.html",
@@ -63,10 +42,31 @@
     "text": "Your browser does not support the video tag. \n\nHere the info about the social event will be displayed"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "SR-SAVI Conference",
     "section": "",
-    "text": "Your browser does not support the video tag. \nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Your browser does not support the video tag."
+  },
+  {
+    "objectID": "about.html#organizers",
+    "href": "about.html#organizers",
+    "title": "SR-SAVI Conference",
+    "section": "Organizers",
+    "text": "Organizers"
+  },
+  {
+    "objectID": "about.html#sponsors",
+    "href": "about.html#sponsors",
+    "title": "SR-SAVI Conference",
+    "section": "Sponsors",
+    "text": "Sponsors\nA special thanks to our sponsors that made this conference possible:"
+  },
+  {
+    "objectID": "about.html#credits",
+    "href": "about.html#credits",
+    "title": "SR-SAVI Conference",
+    "section": "Credits",
+    "text": "Credits\nThis website was created with Quarto by Marianna Rosso. After the event this website will be migrated here."
   }
 ]
