@@ -13,7 +13,7 @@ website:
         text: Program
       - href: speakers.qmd
         text: Speakers
-      - href: credits.qmd
+      - href: about.qmd
         text: About
 
 format:
