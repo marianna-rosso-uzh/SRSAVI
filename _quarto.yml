@@ -14,11 +14,11 @@ website:
       - href: speakers.qmd
         text: Speakers
       - href: credits.qmd
-        text: Credits
+        text: About
 
 format:
   html:
-    theme: minty
+    theme: flatly
     css: styles.css
     toc: true
 

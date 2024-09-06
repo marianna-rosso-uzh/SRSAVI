@@ -1,6 +1,6 @@
 
 
-<video autoplay loop style="width:1000px; height:auto;">
+<video autoplay loop class="responsive-video">
   <source src="ZurichAnim.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

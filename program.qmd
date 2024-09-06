@@ -1,5 +1,8 @@
 ---
 toc: false
+format: 
+  html:
+    css: styles.css
 ---
 
 <div class="background-video-container">
@@ -8,11 +11,10 @@ toc: false
     Your browser does not support the video tag.
   </video>
 </div>
-
 # Day 1 (October 17th)
 
 | Time              | Event                                                                                                                                                                                           |
-|-----------------|-------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | **8:30-9:00**     | Welcome & Registration                                                                                                                                                                          |
 | **9:00-9:30**     | Keynote by Dr. Benjamin Ineichen                                                                                                                                                                |
 | **9:30-10:30**    | Presentations (15 minutes each):                                                                                                                                                                |
@@ -29,25 +31,26 @@ toc: false
 |                   | **Kimberley Wever:** Building on Success: a Roadmap for High-Quality In Vitro Systematic Reviews by Transferring Expertise from Animal Systematic Review Methodology                            |
 | **12:30-13:30**   | Lunch break                                                                                                                                                                                     |
 | **13:30-16:00**   | Reproducibility Challenge, held by Dr. Kimberley Wever and Dr. Sarah McCann                                                                                                                     |
-| **17:00 onwards** | Social event                                                                                                                                                                                    |
+| **17:00 onwards** | [Social Event](SocialEvent.qmd)                                                                                                                                                                 |
+|                   |                                                                                                                                                                                                 |
 
 # Day 2 (October 18th)
 
-| Time            | Event                                                                                                                                                         |
-|-----------------|-------------------------------------------------------|
-| **9:00-9:30**   | Keynote by Dr. Elisabeth Bik                                                                                                                                  |
-| **9:30-10:15**  | Presentations (15 minutes each):                                                                                                                              |
-|                 | **Kimberley Wever:** Uncovering Duplicated Images in Scientific Literature - Systematic Review as a Tool for Detection                                        |
-|                 | **Otto Kalliokoski:** It is time to talk about fraudulent studies in meta-analytical evidence synthesis – learnings from a preclinical systematic review      |
-|                 | **Sara Steele:** Underreporting in non-clinical publications: Development of the rigor assessment tool (RAT)                                                  |
-| **10:15-10:45** | Coffee break                                                                                                                                                  |
-| **10:45-11:15** | Keynote by Dr. Sophia Ananiadou                                                                                                                               |
-| **11:15-11:55** | Presentations (10 minutes each):                                                                                                                              |
-|                 | **Kaitlyn Hair:** The future of Systematic Online Living Evidence Summaries (SOLES): emerging trends and challenges in automating evidence synthesis          |
-|                 | **Andrew Rooney:** Improving workflow for evidence-based decision making in environmental health evaluations                                                  |
-|                 | **Francesca Tinsdeall:** A Comprehensive Evaluation of Stopping Rules in Technology-Assisted Review: When Have We Screened Enough?                            |
-|                 | **Pu Yiyuan:** Large Language Models in systematic review automation of Alzheimer’s research: enhancing living evidence landscape with PICO entity extraction |
-| **12:05-12:35** | Panel discussion with speakers and keynote                                                                                                                    |
-| **12:35-14:00** | Lunch break                                                                                                                                                   |
-| **14:00-15:30** | Poster session                                                                                                                                                |
-| **15:30-16:00** | Closing & Acknowledgements: Benjamin Ineichen and organizers                                                                                                  |
+| Time           | Event                                                                                                                                                         |
+|---------------|-------------------------------------------------------|
+| **9:00-9:30**| Keynote by Dr. Elisabeth Bik                                                                                                                                  |
+| **9:30-10:15**| Presentations (15 minutes each):                                                                                                                              |
+|               | **Kimberley Wever:** Uncovering Duplicated Images in Scientific Literature - Systematic Review as a Tool for Detection                                        |
+|               | **Otto Kalliokoski:** It is time to talk about fraudulent studies in meta-analytical evidence synthesis – learnings from a preclinical systematic review      |
+|               | **Sara Steele:** Underreporting in non-clinical publications: Development of the rigor assessment tool (RAT)                                                  |
+| **10:15-10:45**| Coffee break                                                                                                                                                  |
+| **10:45-11:15**| Keynote by Dr. Sophia Ananiadou                                                                                                                               |
+| **11:15-11:55**| Presentations (10 minutes each):                                                                                                                              |
+|                | **Kaitlyn Hair:** The future of Systematic Online Living Evidence Summaries (SOLES): emerging trends and challenges in automating evidence synthesis          |
+|                | **Andrew Rooney:** Improving workflow for evidence-based decision making in environmental health evaluations                                                  |
+|                | **Francesca Tinsdeall:** A Comprehensive Evaluation of Stopping Rules in Technology-Assisted Review: When Have We Screened Enough?                            |
+|                | **Pu Yiyuan:** Large Language Models in systematic review automation of Alzheimer’s research: enhancing living evidence landscape with PICO entity extraction |
+| **12:05-12:35**| Panel discussion with speakers and keynote                                                                                                                    |
+| **12:35-14:00**| Lunch break                                                                                                                                                   |
+| **14:00-15:30**| Poster session                                                                                                                                                |
+| **15:30-16:00**| Closing & Acknowledgements: Benjamin Ineichen and organizers                                                                                                  |

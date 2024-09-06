@@ -10,16 +10,14 @@ toc: false
 </div>
 
 ## Keynote speakers
-|                               | Bio                                           | More                    |
-|------------------------------------|------------------------------------------------|-------------------------|
-| ![Speaker1](images/Ananiadou.png)          | **Sophia Ananiadou**<br>Top Leadership and Teamwork Motivational Speaker, Retired Firefighter, Adventure Racing World Champion, CNN Hero, and Bestselling Author | [More Info](#)           |
-| ![Speaker2](images/Bik.png)          | **Elisabeth Bik**<br>Top Innovation Keynote Speaker, Futurist, Chairman/CEO of The XPRIZE Foundation, and Bestselling Author | [More Info](#)           |
-| ![Speaker3](images/Ben.png)          | **Benjamin Ineichen**<br>Top Innovation Keynote Speaker, Futurist, Chairman/CEO of The XPRIZE Foundation, and Bestselling Author | [More Info](#)           |
-| ![Speaker4](images/moher.png)          | **David Moher**<br>Top Innovation Keynote Speaker, Futurist, Chairman/CEO of The XPRIZE Foundation, and Bestselling Author | [More Info](#)           |
-| ![Speaker5](images/Salanti.png)          | **Georgia Salanti**<br>Top Innovation Keynote Speaker, Futurist, Chairman/CEO of The XPRIZE Foundation, and Bestselling Author | [More Info](#)           |
 
-
-
+|                                                | Bio                                                                                                                                                              | More           |
+|------------------------|------------------------------|-------------------|
+| ![Speaker1](images/Ananiadou.png){width="190"} | **Sophia Ananiadou**<br> Bio text | <a href="https://research.manchester.ac.uk/en/persons/sophia.ananiadou" target="_blank">More Info</a> |
+| ![Speaker2](images/Bik.png){width="190"}       | **Elisabeth Bik**<br> Bio text                                   | <a href="https://scienceintegritydigest.com/" target="_blank">More Info</a> |
+| ![Speaker3](images/Ben.png){width="190"}       | **Benjamin Ineichen**<br> Bio text                           | <a href="https://stride-lab.pages.uzh.ch/website/people/ineichen-benjamin-victor/" target="_blank">More Info</a> |
+| ![Speaker4](images/moher.png){width="190"}     | **David Moher**<br> Bio text                                      | <a href="https://www.ohri.ca/profile/dmoher" target="_blank">More Info</a> |
+| ![Speaker5](images/Salanti.png){width="190"}   | **Georgia Salanti**<br> Bio text                               | <a href="https://www.ispm.unibe.ch/about_us/staff/salanti_georgia/index_eng.html" target="_blank">More Info</a> |
 
 ## Speakers and abstracts
 
@@ -27,35 +25,28 @@ toc: false
 ### Elisabeth Bik
 
 Elisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct
-
 :::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal"}
 ### Benjamin Ineichen
 
 Elisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct
-
 :::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal"}
-### Sophia Ananiadou 
+### Sophia Ananiadou
 
 Elisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct
-
 :::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal"}
 ### David Moher
 
 Elisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct
-
 :::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal"}
 ### Georgia Salanti
 
 Elisabeth Margaretha Harbers-Bik is a Dutch microbiologist and scientific integrity consultant. Bik is known for her work detecting photo manipulation in scientific publications, and identifying over 4,000 potential cases of improper research conduct
-
 :::
-
-

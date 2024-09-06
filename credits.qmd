@@ -11,6 +11,22 @@ toc: false
 
 ## Organizers
 
-## Thanks to
-
 ## Sponsors
+A special thanks to our sponsors that made this conference possible:
+
+<a href="https://www.criver.com/" target="_blank">
+  <img src="images/CRLogo.png" alt="Charles River logo" width="300" />
+</a>
+
+
+<a href="https://uzhalumni.ch/" target="_blank">
+  <img src="images/UZHAlumni.png" alt="UZH Alumni logo" width="300" />
+</a>
+
+## Credits 
+
+This website was created with <a href="https://quarto.org/" target="_blank">Quarto</a> by <a href="https://stride-lab.pages.uzh.ch/website/people/rosso-marianna/" target="_blank">Marianna Rosso</a>. After the event this website will be migrated <a href="https://github.com/marianna-rosso-uzh/SRSAVI" target="_blank">here</a>.
+
+
+
+
