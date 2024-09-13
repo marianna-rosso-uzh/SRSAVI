@@ -42,6 +42,13 @@
     "text": "Venue\nThe conference will be held at the University of Zürich, in building RAA, Rämistrasse 59, 8001 Zürich, room RAA-G01, floor G"
   },
   {
+    "objectID": "RepoChallenge.html",
+    "href": "RepoChallenge.html",
+    "title": "SR-SAVI Conference",
+    "section": "",
+    "text": "Your browser does not support the video tag. \n\nThis is where the info about the repo challenge will be displayed"
+  },
+  {
     "objectID": "abstracts.html",
     "href": "abstracts.html",
     "title": "SR-SAVI Conference",
@@ -61,6 +68,13 @@
     "title": "SR-SAVI Conference",
     "section": "",
     "text": "Your browser does not support the video tag. \n\nHere the info about the social event will be displayed"
+  },
+  {
+    "objectID": "Venue.html",
+    "href": "Venue.html",
+    "title": "SR-SAVI Conference",
+    "section": "",
+    "text": "Your browser does not support the video tag. \n\nInfo about venue"
   },
   {
     "objectID": "about.html",
