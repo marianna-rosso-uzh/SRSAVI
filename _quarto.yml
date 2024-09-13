@@ -9,10 +9,14 @@ website:
     left:
       - href: index.qmd
         text: Welcome
+      - href: Venue.qmd
+        text: Venue
       - href: program.qmd
         text: Program
       - href: speakers.qmd
         text: Speakers
+      - href: RepoChallenge.qmd
+        text: Repro Challenge
       - href: about.qmd
         text: About
 
