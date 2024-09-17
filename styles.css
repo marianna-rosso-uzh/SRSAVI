@@ -51,3 +51,14 @@ table tr td:nth-child(2) {
   }
 }
 
+.callout-caution.talk {
+  border-left: 4px solid #00ba6f !important;  /* Example color for talks */
+  background-color: #f7fcf9 !important;  /* Light background for talks */
+}
+
+/* Style for posters - change the border and background color */
+.callout-caution.poster {
+  border-left: 4px solid #ffa602 !important;  /* Example color for posters */
+  background-color: #fffcf7 !important;  /* Light background for posters */
+}
+

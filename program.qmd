@@ -12,6 +12,8 @@ format:
   </video>
 </div>
 
+The conference will be held at the University of Zürich, in building RAA, Rämistrasse 59, 8001 Zürich, room RAA-G01, floor G
+
 # Day 1 (October 17th)
 <table>
   <tr><td colspan="2"><hr></td></tr>
