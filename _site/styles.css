@@ -62,3 +62,12 @@ table tr td:nth-child(2) {
   background-color: #fffcf7 !important;  /* Light background for posters */
 }
 
+.image-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.image-row img {
+  margin: 10px;
+}

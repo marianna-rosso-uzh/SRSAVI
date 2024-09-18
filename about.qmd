@@ -25,20 +25,12 @@ Let's give credit where credit is due. This conference would be be possible with
 
 -   <a href="https://www.ed.ac.uk/profile/dr-emily-sena" target="_blank">Emily Sena</a>
 
-## Sponsors
 
-A special thanks to our sponsors that made this conference possible:
+## Feeback
 
-<a href="https://www.criver.com/" target="_blank"> <img src="images/CRLogo.png" alt="Charles River logo" width="300"/> </a>
-
-<a href="https://uzhalumni.ch/" target="_blank"> <img src="images/UZHAlumni.png" alt="UZH Alumni logo" width="300"/> </a>
-
-## Thanks to
-
-<a href="https://camarades.ch/" target="_blank"> <img src="images/camarades_zurich.png" alt="CAMARADES CH" width="300"/> </a>
-
-<a href="https://www.uzh.ch/de.html" target="_blank"> <img src="images/uzh_logo.png" alt="UZH" width="300"/> </a>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdo2w5t6ZH6GeYqKa3fbtpyixZv5A3l9HsGFjsF3BfC2G4gTg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Credits
 
 This website was created with <a href="https://quarto.org/" target="_blank">Quarto</a> by <a href="https://stride-lab.pages.uzh.ch/website/people/rosso-marianna/" target="_blank">Marianna Rosso</a>. After the event this website will be migrated <a href="https://github.com/marianna-rosso-uzh/SRSAVI" target="_blank">here</a>.
+

@@ -13,6 +13,8 @@ website:
         text: Venue
       - href: program.qmd
         text: Program
+      - href: SocialEvent.qmd
+        text: Social Event
       - href: speakers.qmd
         text: Speakers
       - href: RepoChallenge.qmd

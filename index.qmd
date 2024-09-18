@@ -4,7 +4,7 @@ toc: false
 
 ## Welcome to the 5th International SR-SAVI Conference
 
-on Systematic Reviews of Studies in Animals and in VItro - Zürich, 17-18  October 2024
+on Systematic Reviews of Studies in Animals and in VItro - Zürich, 17-18 October 2024
 
 <video autoplay loop class="responsive-video">
 
@@ -13,6 +13,7 @@ on Systematic Reviews of Studies in Animals and in VItro - Zürich, 17-18  Octob
 Your browser does not support the video tag. </video>
 
 ## About
+
 A 2-day international meeting on Systematic Reviews of Animal studies and in VItro. Our priority topics for discussion include:
 
 -   The integration of automation and AI in systematic reviews and meta-analyses.
@@ -20,3 +21,13 @@ A 2-day international meeting on Systematic Reviews of Animal studies and in VIt
 -   Translational research bridging animal studies to human applications and policy implementation.
 
 -   Identification and management of questionable research practices and potential research misconduct.
+
+## Sponsors
+
+A special thanks to our sponsors that made this conference possible:
+
+<a href="https://www.criver.com/" target="_blank"> <img src="images/CRLogo.png" alt="Charles River logo" width="300"/> </a> <a href="https://uzhalumni.ch/" target="_blank"> <img src="images/UZHAlumni.png" alt="UZH Alumni logo" width="300"/> </a>
+
+## Thanks to
+
+<a href="https://stride-lab.pages.uzh.ch/website/" target="_blank"> <img src="images/STRIDE_Lab_logo.png" alt="STRIDE" width="249"/> </a>  <a href="https://www.uzh.ch/de.html" target="_blank"> <img src="images/uzh_logo.png" alt="UZH" width="231"/> </a> <a href="https://camarades.ch/" target="_blank"> <img src="images/camarades_zurich.png" alt="CAMARADES CH" width="165"/> </a> <a href="https://www.crs.uzh.ch/en.html" target="_blank"> <img src="images/CRSLogo.png" alt="STRIDE" width="103"/> </a>
