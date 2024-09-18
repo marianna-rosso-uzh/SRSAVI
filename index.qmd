@@ -22,6 +22,9 @@ A 2-day international meeting on Systematic Reviews of Animal studies and in VIt
 
 -   Identification and management of questionable research practices and potential research misconduct.
 
+-   A <a href="RepoChallenge.qmd">Reproducibility Challenge</a>
+
+
 ## Sponsors
 
 A special thanks to our sponsors that made this conference possible:
