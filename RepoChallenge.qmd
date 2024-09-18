@@ -9,4 +9,4 @@ toc: false
   </video>
 </div>
 
-This is where the info about the repo challenge will be displayed
+Information to follow soon!
