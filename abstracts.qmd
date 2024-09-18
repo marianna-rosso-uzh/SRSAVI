@@ -24,7 +24,7 @@ Systematic reviews of preclinical data are often resource-intensive and outdated
 :::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal" .talk}
-### Nicole Hindley - Methodological assessment of in vitro systematic reviews: a systematic review
+### Clara Sanchez-Izquierdo Lozano - Methodological assessment of in vitro systematic reviews: a systematic review
 
 Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh EH8 9YL, UK; Berlin Institute of Health at Charité, Universitätsmedizin Berlin, Charitéplatz 1, 10117, Berlin, Germany; Sheffield Institute for Translational Neuroscience, University of Sheffield, Sheffield, S10 2HQ, UK; Clinical Epidemiology Program, Blueprint Translational Research Group, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada
 
