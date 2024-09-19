@@ -14,13 +14,14 @@ format:
 
 ## Keynote speakers
 
-|                                                | Bio                                | More                                                                                                             |
-|------------------|------------------|-------------------------------------|
-| ![Speaker1](images/Ananiadou.png){width="190"} | **Sophia Ananiadou**<br> Bio text  | <a href="https://research.manchester.ac.uk/en/persons/sophia.ananiadou" target="_blank">More Info</a>            |
-| ![Speaker2](images/Bik.png){width="190"}       | **Elisabeth Bik**<br> Bio text     | <a href="https://scienceintegritydigest.com/" target="_blank">More Info</a>                                      |
-| ![Speaker3](images/Ben.png){width="190"}       | **Benjamin Ineichen**<br> Bio text | <a href="https://stride-lab.pages.uzh.ch/website/people/ineichen-benjamin-victor/" target="_blank">More Info</a> |
-| ![Speaker4](images/moher.png){width="190"}     | **David Moher**<br> Bio text       | <a href="https://www.ohri.ca/profile/dmoher" target="_blank">More Info</a>                                       |
-| ![Speaker5](images/Salanti.png){width="190"}   | **Georgia Salanti**<br> Bio text   | <a href="https://www.ispm.unibe.ch/about_us/staff/salanti_georgia/index_eng.html" target="_blank">More Info</a>  |
+|                                                | Bio                                | Session keynote                           | More                                                                                                             |
+|------------------|-----------------------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| ![Speaker1](images/Ananiadou.png){width="190"} | **Sophia Ananiadou**<br> Bio text  | Session 4: title tbd  | <a href="https://research.manchester.ac.uk/en/persons/sophia.ananiadou" target="_blank">More Info</a>            |
+| ![Speaker2](images/Bik.png){width="190"}       | **Elisabeth Bik**<br> Bio text     | Session 3: title tbd     | <a href="https://scienceintegritydigest.com/" target="_blank">More Info</a>                                      |
+| ![Speaker3](images/Ben.png){width="190"}       | **Benjamin Ineichen**<br> Bio text | Session 1: title tbd | <a href="https://stride-lab.pages.uzh.ch/website/people/ineichen-benjamin-victor/" target="_blank">More Info</a> |
+| ![Speaker4](images/moher.png){width="190"}     | **David Moher**<br> Bio text       | Session 2: title tbd       | <a href="https://www.ohri.ca/profile/dmoher" target="_blank">More Info</a>                                       |
+| ![Speaker5](images/Salanti.png){width="190"}   | **Georgia Salanti**<br> Bio text   | Title tbd   | <a href="https://www.ispm.unibe.ch/about_us/staff/salanti_georgia/index_eng.html" target="_blank">More Info</a>  |
+
 
 ## Speakers and abstracts
 

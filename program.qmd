@@ -12,7 +12,9 @@ format:
   </video>
 </div>
 
-The conference will be held at the University of Zürich, in building RAA, Rämistrasse 59, 8001 Zürich, room RAA-G01, floor G
+The conference will be held at the University of Zürich, in building RAA, Rämistrasse 59, 8001 Zürich, Aula RAA-G01, floor G
+
+*Please note: the program is subject to minor changes until the beginning of the conference*
 
 # Day 1 (October 17th)
 <table>
@@ -28,7 +30,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td><strong>9:00-9:30</strong></td>
-    <td>Keynote by <strong>Dr. Benjamin Ineichen<strong></td>
+    <td>Keynote by <strong>Benjamin Ineichen<strong></td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -69,7 +71,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   
   <tr>
     <td><strong>11:00-11:30</strong></td>
-    <td>Keynote by <strong>Dr. David Moher</strong></td>
+    <td>Keynote by <strong>David Moher</strong></td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -104,12 +106,12 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td><strong>13:30-14:00</strong></td>
-    <td>Keynote by <strong>Dr. Georgia Salanti</strong></td>
+    <td>Keynote by <strong>Georgia Salanti</strong></td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td><strong>14:00-16:00</strong></td>
-    <td>Reproducibility Challenge, held by Dr. Kimberley Wever and Dr. Sarah McCann</td>
+    <td>Reproducibility Challenge, held by Kimberley Wever and Sarah McCann</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -129,7 +131,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td><strong>9:00-9:30</strong></td>
-    <td>Keynote by <strong>Dr. Elisabeth Bik</strong></td>
+    <td>Keynote by <strong>Elisabeth Bik</strong></td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -163,7 +165,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td><strong>10:45-11:15</strong></td>
-    <td>Keynote by <strong>Dr. Sophia Ananiadou</strong></td>
+    <td>Keynote by <strong>Sophia Ananiadou</strong></td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -208,6 +210,6 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td><strong>15:30-16:00</strong></td>
-    <td>Closing & Acknowledgements: <strong>Dr Benjamin Ineichen & organizers</strong></td>
+    <td>Closing & Acknowledgements: <strong>Benjamin Ineichen & organizers</strong></td>
   </tr>
 </table>
