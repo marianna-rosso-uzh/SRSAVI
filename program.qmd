@@ -20,12 +20,12 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
 <table>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td colspan="2" style="text-align: left;"><u><em>Session 1: Translational Research Bridging Animal Studies to Human Applications and Policy Implementation</u></em></td>
+    <td><strong>8:30-9:00</strong></td>
+    <td>Registration and Welcome</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td><strong>8:30-9:00</strong></td>
-    <td>Welcome & Registration</td>
+    <td colspan="2" style="text-align: left;"><u><em>Session 1: Translational Research Bridging Animal Studies to Human Applications and Policy Implementation</u></em></td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -199,17 +199,12 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td><strong>12:35-14:00</strong></td>
-    <td>Lunch break</td>
+    <td><strong>12:35-14:30</strong></td>
+    <td>Standing lunch and walking poster session</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td><strong>14:00-15:30</strong></td>
-    <td>Poster session 2 with Coffee break</td>
-  </tr>
-  <tr><td colspan="2"><hr></td></tr>
-  <tr>
-    <td><strong>15:30-16:00</strong></td>
-    <td>Closing & Acknowledgements: <strong>Benjamin Ineichen & organizers</strong></td>
+    <td><strong>14:30-15:00</strong></td>
+    <td>Awards, acknowledgements & closing by <strong>Benjamin Ineichen & organizers</strong></td>
   </tr>
 </table>
