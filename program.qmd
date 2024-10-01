@@ -40,7 +40,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td></td>
-    <td><strong>Friederike Elisabeth Kohrs:</strong> Communities for Open Research Synthesis – accelerating the translation of evidence by integrating preclinical systematic reviews into the research pipeline</td>
+    <td><strong>Mala Karmakar:</strong> Open Data Commons for Stroke: a free community platform to share research data and facilitate synthesis</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -96,7 +96,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td></td>
-    <td><strong>Kimberley Wever:</strong> Building on Success: a Roadmap for High-Quality In Vitro Systematic Reviews by Transferring Expertise from Animal Systematic Review Methodology</td>
+    <td><strong>Clara Sanchez-Izquierdo Lozano:</strong> Methodological assessment of in vitro systematic reviews: a systematic review</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
