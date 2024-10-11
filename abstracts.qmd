@@ -13,17 +13,6 @@ Communities for Open Research Synthesis (COReS) develops a targeted framework to
 :::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal" .talk}
-### Kaitlyn Hair - The future of Systematic Online Living Evidence Summaries (SOLES): emerging trends and challenges in automating evidence synthesis
-
-(1) Centre for Clinical Brain Sciences, University of Edinburgh; (2) Berlin Institute of Health at Charité, Universitätsmedizin Berlin, Germany
-
-*Hair, Kaitlyn (1); Smith, Sean (1); Wilson, Emma (1); Enonomou, Maria (2); Bannach-Brown, Alexandra (2); Sena, Emily (1)*
-
-Systematic reviews of preclinical data are often resource-intensive and outdated by completion. Multiple laboratory experiments, often presented side-by-side in publications, lack detailed descriptions in titles or abstracts, leading to missed relevant articles using traditional search methods. Researchers may produce overlapping reviews or use different methods to retrieve studies, with little coordination. To address these challenges, we developed automation tools and methodologies for continual synthesis and quality assessment of preclinical research. This pipeline feeds into Systematic Online Living Evidence Summaries (SOLES) dashboards, summarizing existing literature and facilitating accelerated synthesis.Having formalised and scaled the SOLES approach across different research domains, here I will discuss the challenges faced and opportunities for the future, including the integration of tools for more fine-grained data extraction.Our automated pipeline collects studies from literature sources, screens them for inclusion (using human decisions as training data), and assesses transparency (open data/code sharing) and the reporting of measures to reduce bias (e.g., blinding). We use a unified regular expression dictionary to identify pre-specified animal models, therapeutic interventions, and outcome measures from full-texts. The dashboards allow users to visualise the characteristics of included articles and to download relevant subsets to begin their own systematic review.SOLES projects can accelerate the initial stages of the systematic review process in a given field. Evaluation of this approach is ongoing. Future work aims to extract finer details from published work, including relationships between models, interventions, and outcomes in single experiments.Integrating automation tools and methodologies into the systematic review process, SOLES synthesize preclinical evidence as it emerges and track research trends and reporting quality over time. This approach can enhance the speed and sensitivity of systematic reviews of preclinical research, encourages coordinated efforts, and provides a valuable resource for quickly assessing the current evidence.
-
-:::
-
-::: {.callout-caution collapse="true" icon="false" appearance="minimal" .talk}
 ### Carolyne Huang - A simulation study to quantify successful translation of results from preclinical studies to human trials
 
 University of Zurich
@@ -145,6 +134,17 @@ Systematic reviews aim to identify research articles relevant to a review questi
 :::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal" .talk}
+### Ulf Tölch - The future of Systematic Online Living Evidence Summaries (SOLES): emerging trends and challenges in automating evidence synthesis
+
+Charité | BIH QUEST Center for Responsible Research
+
+*NA*
+
+Large language models carry the promise to support evidence synthesis with their probabilistic representations of human research artefacts, particularly written text. Here, we explore the capability of cloud based commercial large language models to evaluate published experimental papers from a broad range of fields. We compare LLM performance (same responses as human reviewers) across different architectures and pipelines on established quality criteria for scientific publications. We show that easy tasks can be achieved with almost the same accuracy of human reviewers. With increasing assessment difficulty accuracy levels drop and additional reconciliation is needed. We present guidance how this can be achieved and make suggestion for next steps.
+
+:::
+
+::: {.callout-caution collapse="true" icon="false" appearance="minimal" .talk}
 ### Kimberley Wever - Uncovering Duplicated Images in Scientific Literature - Systematic Review as a Tool for Detection
 
 Radboud University Medical Center
@@ -170,17 +170,6 @@ Despite decades of clinical trials, effective disease modifying treatment option
 
 ### Posters
 
-
-::: {.callout-caution collapse="true" icon="false" appearance="minimal" .poster}
-### Friederike Kohrs - Communities for Open Research Synthesis – accelerating the translation of evidence by integrating preclinical systematic reviews into the research pipeline
-
-Charité | BIH QUEST Center for Responsible Research
-
-*Kohrs, Friederike Elisabeth; Vojvodic, Sofija; Karmakar, Mala; Rackoll, Torsten; Bannach-Brown, Alexandra; McCann, Sarah*
-
-Our project Communities for Open Research Synthesis (COReS) develops a targeted framework to initiate systemic change in how preclinical evidence from laboratory studies is translated into improved human health outcomes. Systematic review and meta-analysis act as an evidence-based bridge when translating scientific findings. These techniques allow us to identify what we currently know, how reliable evidence is, and where future research is needed, thereby increasing the possibility for successful translation. COReS aims for long-lasting change in how research is designed, conducted, and disseminated considering up-to-date evidence. We leverage existing community expertise and develop sustainable implementation, thereby advancing high-quality research.   We employ a three-pillar approach to integrate preclinical systematic reviews into the research pipeline.     Education: Comprehensive education grows awareness of the benefits of preclinical systematic review and builds capacity and methodological competence. In addition to live workshops, we have developed freely available eLearning modules.  Our “train-the-trainer” programme enables qualified researchers to educate others at their institutions, effectively delivering education at scale.    Infrastructure: To carry out preclinical systematic reviews, appropriate infrastructure and support is required. We build on existing software, Systematic Review Facility (SyRF), expanding to support helpdesk enquiries, and optimise user experience and documentation. We collaboratively develop new features and integrate novel automation tools into SyRF, reducing resources associated with conducting systematic reviews.    Community: Forging communities to address the disconnect between primary research and evidence synthesis is instrumental. Our digital hub combines resources, tools, and support and our online open community forum facilitates sharing of standards and discussion of methodological questions, allowing for new collaborations to be formed.  Partner institutions across Germany are currently piloting this blueprint for initiating communities, ensuring adaptability to different institutions and biomedical research fields. COReS creates interdisciplinary networks to address challenges of preclinical and translational research, facilitating decision-making in research prioritisation.   "Please note: our results and outlook section has been submitted in the results section of the abstract submission form"
-
-:::
 
 ::: {.callout-caution collapse="true" icon="false" appearance="minimal" .poster}
 ### Juliana Bolzan - An overview of protocols in Pharmacology registered at PROSPERO: Are there systematic reviews and meta-analyses synthesizing pharmacological interventions?
@@ -234,6 +223,17 @@ University of Zurich
 *Berg, Ingrid; Härvelid, Pia; Zürrer, Wolfgang Emanuel; Rosso, Marianna; Reich, Daniel Salo; Ineichen, Benjamin Victor*
 
 Despite successes in multiple sclerosis (MS) drug development, the effectiveness of animal studies in predicting successful bench-to-bedside translation is uncertain. Our goal was to identify predictors of successful animal-to-human translation for MS by systematically comparing animal studies of ap-proved disease-modifying therapies (DMTs) with those that failed in clinical trials due to efficacy or safety concerns.Systematic review of animal studies testing MS DMTs, identified from searches in PubMed and EM-BASE. We used machine-learning methods for abstract screening and data extraction. A random ef-fect meta-analysis was fitted to the data to compare outcome effect sizes for approved vs. failed DMTs.We included 497 animal studies, covering 15 approved and 11 failed DMTs, tested in approximately 30’000 animals. DMTs were tested in a small repertoire of experimental parameters: about 86% of studies used experimental autoimmune encephalomyelitis (EAE), 80% used mice, and 76% used fe-male animals. Neither outcomes of animal studies nor testing a DMT under more diverse experimental settings, e.g., across different laboratories or animal models, were associated with successful approval. Surprisingly, 91% of animal studies were published after first-in-MS trial and 91% after official regu-latory approval.Our study underscores specific challenges in translating animal research to clinical practice, including limited experimental methods, and a potential disconnect between preclinical and clinical research. We advocate for increasing experimental variability and efforts to streamline drug development for MS to improve animal research's relevance to patient care.
+
+:::
+
+::: {.callout-caution collapse="true" icon="false" appearance="minimal" .poster}
+### Friederike Kohrs - Communities for Open Research Synthesis – accelerating the translation of evidence by integrating preclinical systematic reviews into the research pipeline
+
+Charité | BIH QUEST Center for Responsible Research
+
+*Kohrs, Friederike Elisabeth; Vojvodic, Sofija; Karmakar, Mala; Rackoll, Torsten; Bannach-Brown, Alexandra; McCann, Sarah*
+
+Our project Communities for Open Research Synthesis (COReS) develops a targeted framework to initiate systemic change in how preclinical evidence from laboratory studies is translated into improved human health outcomes. Systematic review and meta-analysis act as an evidence-based bridge when translating scientific findings. These techniques allow us to identify what we currently know, how reliable evidence is, and where future research is needed, thereby increasing the possibility for successful translation. COReS aims for long-lasting change in how research is designed, conducted, and disseminated considering up-to-date evidence. We leverage existing community expertise and develop sustainable implementation, thereby advancing high-quality research.   We employ a three-pillar approach to integrate preclinical systematic reviews into the research pipeline.     Education: Comprehensive education grows awareness of the benefits of preclinical systematic review and builds capacity and methodological competence. In addition to live workshops, we have developed freely available eLearning modules.  Our “train-the-trainer” programme enables qualified researchers to educate others at their institutions, effectively delivering education at scale.    Infrastructure: To carry out preclinical systematic reviews, appropriate infrastructure and support is required. We build on existing software, Systematic Review Facility (SyRF), expanding to support helpdesk enquiries, and optimise user experience and documentation. We collaboratively develop new features and integrate novel automation tools into SyRF, reducing resources associated with conducting systematic reviews.    Community: Forging communities to address the disconnect between primary research and evidence synthesis is instrumental. Our digital hub combines resources, tools, and support and our online open community forum facilitates sharing of standards and discussion of methodological questions, allowing for new collaborations to be formed.  Partner institutions across Germany are currently piloting this blueprint for initiating communities, ensuring adaptability to different institutions and biomedical research fields. COReS creates interdisciplinary networks to address challenges of preclinical and translational research, facilitating decision-making in research prioritisation.   "Please note: our results and outlook section has been submitted in the results section of the abstract submission form"
 
 :::
 

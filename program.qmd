@@ -20,8 +20,13 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
 <table>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td><strong>8:30-9:00</strong></td>
+    <td><strong>8:30-8:50</strong></td>
     <td>Registration and Welcome</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>8:50-9:00</strong></td>
+    <td>Introduction and Housekeeping</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -165,7 +170,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td><strong>10:45-11:15</strong></td>
-    <td>Keynote by <strong>Sophia Ananiadou</strong></td>
+    <td>Keynote by <strong>Kaitlyn Hair</strong></td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
@@ -175,7 +180,7 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   <tr><td colspan="2"><hr></td></tr>
   <tr>
     <td></td>
-    <td><strong>Kaitlyn Hair:</strong> The future of Systematic Online Living Evidence Summaries (SOLES): emerging trends and challenges in automating evidence synthesis</td>
+    <td><strong>Ulf Tölch:</strong> Assessing quality criteria in publications through AI assisted pipelines</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
