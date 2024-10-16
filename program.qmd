@@ -115,8 +115,42 @@ The conference will be held at the University of Zürich, in building RAA, Rämi
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
-    <td><strong>14:00-16:00</strong></td>
-    <td>Reproducibility Challenge, held by Kimberley Wever and Sarah McCann</td>
+    <td colspan="2" style="text-align: left;"><u><em>Reproducibility Challenge</u></em></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>14:00-14:15</strong></td>
+    <td>Introduction to the challenge by Kimberley Wever and Sarah McCann</strong></td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>14:15-15:15</strong></td>
+    <td>Presentations by the challengers (15 minutes each):</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td>Sofja Vojvodic and team</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td>Maria Economou and Torsten Rackoll</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td>Fiona Ramage and team</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td></td>
+    <td>Matheus Gallas-Lopes and team</td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td><strong>15:15-16:00</strong></td>
+    <td>General discussion and steps moving forward</td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
   <tr>
