@@ -130,7 +130,21 @@
     "href": "SocialEvent.html",
     "title": "SR-SAVI Conference",
     "section": "",
-    "text": "Your browser does not support the video tag. \n\n\n\n\n\n\nJoin us for a memorable social event featuring a Happy Hour followed by a 5-course dinner at the Uto Kulm Restaurant, located on the scenic Uetliberg in Zürich, on us!\nYou can reach the top either by a quick train ride or enjoy a leisurely 45-minute hike, taking in the beautiful views of the city and surrounding nature. It’s the perfect way to relax and network after a day of engaging discussions!\nMore information will follow!"
+    "text": "Your browser does not support the video tag.\nJoin us for a memorable social event featuring a Happy Hour (starting at 19:00) followed by a 5-course dinner at the Uto Kulm Restaurant, located on the scenic Uetliberg in Zürich, on us!\nYou can reach the top either by a quick train ride or enjoy a leisurely 45-minute hike, taking in the beautiful views of the city and surrounding nature. It’s the perfect way to relax and network after a day of engaging discussions!"
+  },
+  {
+    "objectID": "SocialEvent.html#by-foot",
+    "href": "SocialEvent.html#by-foot",
+    "title": "SR-SAVI Conference",
+    "section": "By foot:",
+    "text": "By foot:\nMeet Benjamin at the Central bus and tram station, at Zähringerstrasse 51 (point A in the map below) at 17:00. You will walk to Zürich HB (point B) from there at take the train S10 at 17:25 to Zürich Triemli (point C) where the hike will start. The hike will take you near the Uetliberg train station (point D) in around 45-60 minutes. From there, a short 10 minute walk will take you to the Utokulm restaurant (point E)."
+  },
+  {
+    "objectID": "SocialEvent.html#by-train",
+    "href": "SocialEvent.html#by-train",
+    "title": "SR-SAVI Conference",
+    "section": "By train:",
+    "text": "By train:\nMeet Marianna at the Central bus and tram station, at Zähringerstrasse 51 (point A in the map below) at 18:00. You will walk to Zürich HB (point B) from there at take the train S10 at 18:35 to Zürich Uetliberg (point D). Train tickets will be available for purchase at the train station. From there, a short 10 minute walk will take you to the Utokulm restaurant (point E)."
   },
   {
     "objectID": "RepoChallenge.html",
