@@ -9,6 +9,8 @@ toc: false
   </video>
 </div>
 
+![](images/Aula.jpeg){fig-align="center"}
+
 ## Location
 
 The conference will be held at the University of Zürich, in building RAA, Rämistrasse 59, 8001 Zürich, Aula RAA-G01, floor G
